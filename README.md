@@ -1,0 +1,2 @@
+# Nowe
+Ponowna nauka GIT
